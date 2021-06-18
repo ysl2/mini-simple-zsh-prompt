@@ -5,6 +5,22 @@
 This is a really [simple](performance.md) zsh prompt.
 
 Use at your own risk. :-)
+## Some pictures
+
+1. This is my daily shell environment.
+
+    ![1](assets/README/image_2021-06-18-14-12-54.png)
+
+2. This is the single prompt effect (The simplest zshrc).
+
+    ```zsh
+    ~/.zshrc
+    ========
+
+    source /path/to/the/prompt/file
+    ```
+
+    ![1](assets/README/image_2021-06-18-13-56-41.png)
 
 ## Install
 
@@ -56,19 +72,3 @@ Add `zplugin ice depth=1; zplugin light ysl2/mini-simple-zsh-prompt` to `~/.zshr
 
 Add `zinit ice depth=1; zinit light ysl2/mini-simple-zsh-prompt` to `~/.zshrc`.
 
-## Some pictures
-
-1. This is my daily shell environment.
-
-    ![1](assets/README/image_2021-06-18-14-12-54.png)
-
-2. This is the single prompt effect (The simplest zshrc).
-
-    ```zsh
-    ~/.zshrc
-    ========
-
-    source /path/to/the/prompt/file
-    ```
-
-    ![1](assets/README/image_2021-06-18-13-56-41.png)
