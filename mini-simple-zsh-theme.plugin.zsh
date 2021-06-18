@@ -9,5 +9,6 @@ zstyle ':vcs_info:git:*' formats 'on branch %b'
 setopt PROMPT_SUBST
 
 
-PROMPT='%n in ${PWD/#$HOME/~} ${vcs_info_msg_0_}
+PROMPT='
+%n in ${PWD/#$HOME/~} ${vcs_info_msg_0_}
 > '
