@@ -1,8 +1,7 @@
 # Mini Simple Zsh Theme
 
-I'm not the author, just for my personal use.
-
-The original link: https://www.youtube.com/watch?v=nEvsWQrKVcQ
+> This project is modified based on https://www.youtube.com/watch?v=nEvsWQrKVcQ
 
 Use at your own risk. :-)
 
+![1](assets/README/image_2021-06-18-13-46-03.png)
