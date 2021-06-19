@@ -5,6 +5,7 @@
 This is a really [simple](performance.md) zsh prompt.
 
 Use at your own risk. :-)
+
 ## Some pictures
 
 1. This is my daily shell environment.
@@ -71,4 +72,5 @@ Add `zplugin ice depth=1; zplugin light ysl2/mini-simple-zsh-prompt` to `~/.zshr
 ### Zinit
 
 Add `zinit ice depth=1; zinit light ysl2/mini-simple-zsh-prompt` to `~/.zshrc`.
+
 
